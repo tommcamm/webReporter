@@ -1,6 +1,6 @@
 # webReporter
 
-This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
+This a test project for creating an open reputation system where it is possible to use the API for external use.
 
 ## Project Structure
 
