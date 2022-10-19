@@ -1,0 +1,27 @@
+{
+  "webReporterApp": {
+    "report": {
+      "home": {
+        "title": "Reports",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Report",
+        "createOrEditLabel": "Genera o modifica un Report",
+        "notFound": "No Reports found"
+      },
+      "created": "&Egrave; stato generato un nuovo Report con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Report identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Report con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Report {{ id }}?"
+      },
+      "detail": {
+        "title": "Report"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "ipAddress": "Ip Address",
+      "user": "User"
+    }
+  }
+}
